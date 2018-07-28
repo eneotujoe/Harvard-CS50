@@ -1,0 +1,16 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. TODO
+1. TODO
+2. TODO
+3. TODO
+
+
+Answers:
+1. 3x3, 5x5, 6x6, 7x7, 8x8 and 9x9
+2.
+3. void greet(void)
+4. void init(void), void draw(void), bool move(int tile) and bool won(void)
