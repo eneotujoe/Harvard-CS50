@@ -6,7 +6,7 @@ This repository contains my solutions to the problem sets on CS50x 2016.
 - [CS50x 2016 Final Project: click on this link to view the final project](https://www.youtube.com/watch?v=spf952I5y64)
 
 ## Note: 
-This course has been upgraded for 2018 on [edx.org](https://www.edx.org.com), therefore, I'm reviewing it.
+This course has been upgraded for 2018 on [edx.org](https://www.edx.org.com).
 
 ## [About this course](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
